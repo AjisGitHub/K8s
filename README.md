@@ -1,4 +1,0 @@
-# MOP
-Run oc command
-
-
