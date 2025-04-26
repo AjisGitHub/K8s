@@ -11,6 +11,7 @@ Here you will find structured documentation prepared by me, Ajithkumar S, to und
 - [Docker Overview](./Docker_by_AK.docx)
 - [Kubernetes Architecture](./K8s%20Architecture_by_AK.docx)
 - [Worker Node Deep Dive](./Worker%20Node_by_AK.docx)
+- [Kubernetes_vs_OpenShift](./Kubernetes_and_OpenShift.md).
 
 ---
 
@@ -28,6 +29,7 @@ Here you will find structured documentation prepared by me, Ajithkumar S, to und
 - Control Plane & Worker Node Architecture
 - Docker Basics
 - Kubernetes Cluster Internals
+- Diff b/w OpenShift and Kubernetes
 
 ---
 
