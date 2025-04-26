@@ -1,10 +1,5 @@
 # 🚀 Kubernetes (K8s) Documentation Repository
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1.27-blue?logo=kubernetes)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
-![Status](https://img.shields.io/badge/Status-Learning-informational)
-![License](https://img.shields.io/badge/Maintained-Yes-brightgreen)
-
 Welcome to my Kubernetes (K8s) notes and resources repository!  
 Here you will find structured documentation prepared by me, Ajithkumar S, to understand core Kubernetes and Docker concepts.
 
