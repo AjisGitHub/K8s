@@ -1,6 +1,6 @@
 ### 
 
-### Q: You deleted a deployment, but the pods are still running. How?**
+### Q: You deleted a deployment, but the pods are still running. How?
 
 _A: The associated ReplicaSet wouldn't have been deleted. If the Deployment was paused or not cleaned up properly, the ReplicaSet would continue maintaining the pods._
 
