@@ -1,0 +1,23 @@
+Q. What is the difference between a Deployment and a StatefulSet in Kubernetes?
+
+Q. When should you use a StatefulSet instead of a Deployment?
+
+Q. Can you attach a volume to a Deployment? If yes, how is it different from a StatefulSet?
+
+Q. What could cause a StatefulSet pod to fail when rescheduled to a different availability zone?
+
+Q. How do PV/PVC behave across zones in EKS or Kubernetes in general?
+
+Q. What is a DaemonSet and when would you use it?
+
+Q. If you want two pods per node (instead of one), what alternatives to DaemonSet can you use?
+
+Q. What is a Pod Disruption Budget (PDB) and how is it useful?
+
+Q. How do you handle certificate rotation in on-prem Kubernetes clusters?
+
+Q. What are the challenges with scheduling pods in a multi-node, multi-AZ setup?
+
+Q. How does the Kubernetes scheduler decide where to place pods?
+
+Q. What happens when a StatefulSet pod cannot mount its volume after moving to another node?
