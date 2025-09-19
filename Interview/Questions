@@ -21,3 +21,38 @@ Q. What are the challenges with scheduling pods in a multi-node, multi-AZ setup?
 Q. How does the Kubernetes scheduler decide where to place pods?
 
 Q. What happens when a StatefulSet pod cannot mount its volume after moving to another node?
+
+
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+
+📍Basic Level [ Kubernetes ]
+
+1) Explain the control plane components and their functionalities, and how they interact with each other.
+2) Explain how the kube-proxy component works on the node.
+3) Explain the CNI and CRI interfaces.
+4) How to troubleshoot etcd issues.
+
+
+📍Intermediate Level [Kubernetes ]
+5) Explain the core components and benefits of a service mesh like Istio or Linkerd.
+6) Describe how traffic management (e.g., canary deployments, A/B testing) is implemented using a service mesh.
+7) Discuss the security implications and best practices for implementing mutual TLS (mTLS) in a service mesh.
+8) How do you troubleshoot a performance issue originating from the service mesh?
+9) Explain the differences between ClusterIP, NodePort, LoadBalancer, and Ingress services.
+10) Describe how you would implement a multi-cluster ingress solution.
+11) Discuss the challenges of implementing network policies and how you would troubleshoot network connectivity issues within a Kubernetes cluster.
+12) Explain how to implement and troubleshoot egress network policies.
+13) Explain the differences between PersistentVolumes (PVs), PersistentVolumeClaims (PVCs), and StorageClasses.
+
+📍Advanced Level [ Kubernetes ]
+14) Describe how you would implement dynamic provisioning of persistent storage for stateful applications.
+15) Discuss the challenges of managing stateful applications in Kubernetes and how you would ensure data consistency and availability.
+16) How to take and restore a snapshot of a persistent volume?
+Security Best Practices:
+17) Describe how you would implement role-based access control (RBAC) to restrict access to Kubernetes resources.
+18) Discuss the importance of container image security and how you would implement image scanning and vulnerability management.
+19) Explain how you would implement secrets management using Kubernetes Secrets or an external secrets management solution (e.g., HashiCorp Vault).
+20) How would you implement and enforce pod security policies, and how have pod security standards changed the landscape?
+21) Describe how you would implement a comprehensive monitoring and logging solution for a Kubernetes cluster.
+22) Discuss the importance of distributed tracing and how you would implement it using tools like Jaeger or Zipkin.
