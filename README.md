@@ -5,16 +5,6 @@ Here you will find structured documentation prepared by me, Ajithkumar S, to und
 
 ---
 
-## 📚 Repository Contents
-
-- [Control Plane Concepts](./Control%20Plane_by_AK.docx)
-- [Docker Overview](./Docker_by_AK.docx)
-- [Kubernetes Architecture](./K8s%20Architecture_by_AK.docx)
-- [Worker Node Deep Dive](./Worker%20Node_by_AK.docx)
-- [Kubernetes_vs_OpenShift](./Kubernetes_and_OpenShift.md).
-
----
-
 ## 🎯 Purpose
 
 - Provide a reference guide for Kubernetes beginners and practitioners.
