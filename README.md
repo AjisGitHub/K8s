@@ -25,7 +25,9 @@ Contributions might be opened up in future!
 
 - **Email**: rlaajith003@gmail.com
 - **GitHub**: [AjisGitHub](https://github.com/AjisGitHub)
-- **LinkedIn**: [Ajithkumar S](https://www.linkedin.com/in/ajithkumar-subramanian-8236311a6/)
+- **LinkedIn**: [Ajithkumar Subramanian](https://www.linkedin.com/in/ajithkumar-subramanian-8236311a6/)
+- **Medium**: [Ajithkumar Subramanian](https://medium.com/@rlaajith003)
+- **YouTube**: [LearnwithAjith](www.youtube.com/@LearnwithAjith)
 
 ---
 
