@@ -11,15 +11,6 @@ Here you will find structured documentation prepared by me, Ajithkumar S, to und
 - Support interview preparation with structured notes.
 - Enhance my personal cloud-native learning journey.
 
----
-
-## 🛠️ Technologies and Topics Covered
-
-- Kubernetes Core Components
-- Control Plane & Worker Node Architecture
-- Docker Basics
-- Kubernetes Cluster Internals
-- Diff b/w OpenShift and Kubernetes
 
 ---
 
