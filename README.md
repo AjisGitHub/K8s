@@ -1,7 +1,7 @@
 # 🚀 Kubernetes (K8s) Documentation Repository
 
 Welcome to my Kubernetes (K8s) notes and resources repository!  
-Here you will find structured documentation prepared by me, Ajithkumar S, to understand core Kubernetes and Docker concepts.
+Here you will find structured documentation prepared by me, Ajithkumar Subramanian, to understand core Kubernetes and Docker concepts.
 
 ---
 
