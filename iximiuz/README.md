@@ -8,4 +8,4 @@
 - Networking
 - Programming 
 
-Link : [https://iximiuz.com/en/](URL:Link)
+Website  : [Link](URL"https://iximiuz.com/en/")
