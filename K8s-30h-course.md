@@ -4,4 +4,4 @@
 
 [Notes](https://github.com/AjisGitHub/K8s/Documents/K8s-30h-course.pdf)
 
-[Code & Manifests](ttps://github.com/theshubhamgour/kubernetes-tutorial)
+[Code & Manifests](https://github.com/theshubhamgour/kubernetes-tutorial)
